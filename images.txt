@@ -1,5 +1,1 @@
-elasticsearch:8.11.3
-infiniflow/infinity:v0.6.0-dev3
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-valkey/valkey:8
-infiniflow/ragflow:v0.17.2
+absolutapps/oracle-12c-ee
