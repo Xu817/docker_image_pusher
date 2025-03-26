@@ -1,4 +1,3 @@
-nginx
 absolutapps/oracle-12c-ee
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0-dev3
