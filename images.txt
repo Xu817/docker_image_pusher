@@ -1,1 +1,1 @@
-absolutapps/oracle-12c-ee
+ docker.io/absolutapps/oracle-12c-ee:latest
